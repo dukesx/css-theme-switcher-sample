@@ -1,0 +1,185 @@
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Bold.eot");
+  src: local("/assets/fonts/avenir-next/Avenir Next Cyr Bold"),
+    local("AvenirNextCyr-Bold"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Bold.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Bold.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Light.eot");
+  src: local("Avenir Next Cyr Light"), local("AvenirNextCyr-Light"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Light.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Light.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Heavy.eot");
+  src: local("Avenir Next Cyr Heavy"), local("AvenirNextCyr-Heavy"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Heavy.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Heavy.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Heavy.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Medium.eot");
+  src: local("Avenir Next Cyr Medium"), local("AvenirNextCyr-Medium"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Medium.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Medium.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Demi.eot");
+  src: local("Avenir Next Cyr Demi"), local("AvenirNextCyr-Demi"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Demi.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Demi.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Demi.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Demi.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Cyr";
+  src: url("/assets/fonts/avenir-next/AvenirNextCyr-Regular.eot");
+  src: local("Avenir Next Cyr Regular"), local("AvenirNextCyr-Regular"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Regular.woff2") format("woff2"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Regular.woff") format("woff"),
+    url("/assets/fonts/avenir-next/AvenirNextCyr-Regular.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* poppins-regular - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/poppins/poppins-v15-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Regular"), local("Poppins-Regular"),
+    url("/assets/fonts/poppins/poppins-v15-latin-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("/assets/fonts/poppins/poppins-v15-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-regular.woff") format("woff"),
+    /* Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("/assets/fonts/poppins/poppins-v15-latin-regular.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/assets/fonts/poppins/poppins-v15-latin-500.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Medium"), local("Poppins-Medium"),
+    url("/assets/fonts/poppins/poppins-v15-latin-500.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("/assets/fonts/poppins/poppins-v15-latin-500.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-500.woff") format("woff"),
+    /* Modern Browsers */ url("/assets/fonts/poppins/poppins-v15-latin-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("/assets/fonts/poppins/poppins-v15-latin-500.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/poppins/poppins-v15-latin-600.eot"); /* IE9 Compat Modes */
+  src: local("Poppins SemiBold"), local("Poppins-SemiBold"),
+    url("/assets/fonts/poppins/poppins-v15-latin-600.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("/assets/fonts/poppins/poppins-v15-latin-600.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-600.woff") format("woff"),
+    /* Modern Browsers */ url("/assets/fonts/poppins/poppins-v15-latin-600.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("/assets/fonts/poppins/poppins-v15-latin-600.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/poppins/poppins-v15-latin-700.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Bold"), local("Poppins-Bold"),
+    url("/assets/fonts/poppins/poppins-v15-latin-700.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("/assets/fonts/poppins/poppins-v15-latin-700.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-700.woff") format("woff"),
+    /* Modern Browsers */ url("/assets/fonts/poppins/poppins-v15-latin-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("/assets/fonts/poppins/poppins-v15-latin-700.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-800 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/assets/fonts/poppins/poppins-v15-latin-800.eot"); /* IE9 Compat Modes */
+  src: local("Poppins ExtraBold"), local("Poppins-ExtraBold"),
+    url("/assets/fonts/poppins/poppins-v15-latin-800.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("/assets/fonts/poppins/poppins-v15-latin-800.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("/assets/fonts/poppins/poppins-v15-latin-800.woff") format("woff"),
+    /* Modern Browsers */ url("/assets/fonts/poppins/poppins-v15-latin-800.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("/assets/fonts/poppins/poppins-v15-latin-800.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+
+.h-home-xxl {
+  height: 700px;
+}
