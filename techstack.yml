@@ -1,7 +1,8 @@
 repo_name: dukesx/css-theme-switcher-sample
 report_id: ed328d3090e911f8605d1ff37b5d1d75
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T14:35:27+00:00'
+timestamp: '2024-01-05T08:51:06+00:00'
 requested_by: dukesx
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample
   detection_source: Repo Metadata
 - name: Ant Design
   description: A set of high-quality React components
@@ -35,6 +38,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6112/12101536.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -59,7 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -94,6 +101,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -106,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/.babelrc
   detection_source: ".babelrc"
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -117,6 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample
   detection_source: Repo Metadata
 - name: gulp
   description: The streaming build system
@@ -128,7 +138,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -140,6 +150,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -152,6 +163,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -164,6 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -177,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -191,7 +204,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -205,7 +218,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17199/default_9fc4b0c75e3fd0ca34b2b1e215b90fd3d79ddde3.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -220,7 +233,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16648/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -234,7 +247,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16267/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -248,7 +261,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16282/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -262,7 +275,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -283,7 +296,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -315,6 +328,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -327,6 +341,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -340,7 +355,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -354,7 +369,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17948/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
@@ -368,7 +383,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/dukesx/css-theme-switcher-sample/blob/master/package.json
   detection_source: package.json
   last_updated_by: dukesx
   last_updated_on: 2020-12-15 16:12:42.000000000 Z
